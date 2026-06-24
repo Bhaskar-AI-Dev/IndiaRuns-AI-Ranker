@@ -1,0 +1,51 @@
+candidate_id,rank,score,reasoning
+CAND_0000032,1,49.68,8.1 yrs exp. Validated 2 AI skills. Will relocate. Response: 69%.
+CAND_0000031,2,49.14,6.0 yrs exp. Validated 1 AI skills. Will relocate. Response: 91%.
+CAND_0000007,3,33.48,5.5 yrs exp. Validated 1 AI skills. Will relocate. Response: 62%.
+CAND_0000025,4,31.08,7.3 yrs exp. Validated 1 AI skills. Response: 74%.
+CAND_0000044,5,27.72,5.7 yrs exp. Validated 1 AI skills. Response: 66%.
+CAND_0000045,6,21.7,12.2 yrs exp. Validated 1 AI skills. Will relocate. Response: 62%.
+CAND_0000001,7,20.4,6.9 yrs exp. Validated 2 AI skills. Response: 34%.
+CAND_0000011,8,20.16,2.0 yrs exp. Validated 2 AI skills. Response: 56%.
+CAND_0000021,9,17.15,14.5 yrs exp. Validated 1 AI skills. Will relocate. Response: 49%.
+CAND_0000015,10,13.44,5.4 yrs exp. Validated 1 AI skills. Response: 32%.
+CAND_0000035,11,12.24,4.3 yrs exp. Validated 2 AI skills. Response: 34%.
+CAND_0000010,12,7.2,4.6 yrs exp. Validated 1 AI skills. Response: 40%.
+CAND_0000047,13,5.85,2.4 yrs exp. Validated 1 AI skills. Response: 39%.
+CAND_0000013,14,5.04,1.1 yrs exp. Validated 1 AI skills. Response: 28%.
+CAND_0000022,15,4.86,1.1 yrs exp. Validated 1 AI skills. Response: 27%.
+CAND_0000043,16,3.6,8.3 yrs exp. Validated 3 AI skills. Will relocate. Response: 4%.
+CAND_0000016,17,1.12,5.3 yrs exp. Validated 1 AI skills. Title penalty (accountant). Response: 64%.
+CAND_0000014,18,0.96,8.4 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 80%.
+CAND_0000046,19,0.738,7.8 yrs exp. Validated 0 AI skills. Will relocate. Zero core skills penalty. Response: 41%.
+CAND_0000020,20,0.66,6.3 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 55%.
+CAND_0000039,21,0.65,3.9 yrs exp. Validated 1 AI skills. Will relocate. Title penalty (marketing manager). Response: 52%.
+CAND_0000048,22,0.39,9.7 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 65%.
+CAND_0000038,23,0.36,6.7 yrs exp. Validated 0 AI skills. Will relocate. Zero core skills penalty. Response: 20%.
+CAND_0000049,24,0.354,11.8 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 59%.
+CAND_0000040,25,0.345,1.6 yrs exp. Validated 1 AI skills. Title penalty (customer support). Response: 46%.
+CAND_0000019,26,0.34,6.5 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 34%.
+CAND_0000017,27,0.338,12.3 yrs exp. Validated 1 AI skills. Title penalty (accountant). Response: 27%.
+CAND_0000009,28,0.318,11.0 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 53%.
+CAND_0000036,29,0.2,11.3 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 40%.
+CAND_0000018,30,0.192,6.6 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 16%.
+CAND_0000024,31,0.059,7.5 yrs exp. Validated 0 AI skills. Will relocate. Title penalty (hr manager). Zero core skills penalty. Response: 78%.
+CAND_0000042,32,0.044,5.0 yrs exp. Validated 0 AI skills. Will relocate. Title penalty (hr manager). Zero core skills penalty. Response: 57%.
+CAND_0000026,33,0.029,6.8 yrs exp. Validated 0 AI skills. Title penalty (graphic designer). Zero core skills penalty. Response: 59%.
+CAND_0000037,34,0.02,14.3 yrs exp. Validated 0 AI skills. Title penalty (business analyst). Zero core skills penalty. Response: 78%.
+CAND_0000005,35,0.018,11.0 yrs exp. Validated 0 AI skills. Will relocate. Title penalty (accountant). Zero core skills penalty. Response: 37%.
+CAND_0000030,36,0.017,10.0 yrs exp. Validated 0 AI skills. Title penalty (marketing manager). Zero core skills penalty. Response: 66%.
+CAND_0000008,37,0.016,3.6 yrs exp. Validated 0 AI skills. Local. Title penalty (operations manager). Zero core skills penalty. Response: 42%.
+CAND_0000029,38,0.011,7.2 yrs exp. Validated 0 AI skills. Local. Title penalty (business analyst). Zero core skills penalty. Response: 12%.
+CAND_0000050,39,0.011,13.5 yrs exp. Validated 0 AI skills. Title penalty (business analyst). Zero core skills penalty. Response: 42%.
+CAND_0000006,40,0.009,6.0 yrs exp. Validated 0 AI skills. Will relocate. Title penalty (business analyst). Zero core skills penalty. Response: 12%.
+CAND_0000002,41,0.007,12.5 yrs exp. Validated 0 AI skills. Title penalty (operations manager). Zero core skills penalty. Response: 28%.
+CAND_0000033,42,0.007,8.6 yrs exp. Validated 0 AI skills. Local. Title penalty (graphic designer). Zero core skills penalty. Response: 8%.
+CAND_0000004,43,0.007,3.8 yrs exp. Validated 0 AI skills. Will relocate. Title penalty (marketing manager). Zero core skills penalty. Response: 26%.
+CAND_0000034,44,0.004,14.5 yrs exp. Validated 0 AI skills. Title penalty (business analyst). Zero core skills penalty. Response: 15%.
+CAND_0000028,45,0.004,1.1 yrs exp. Validated 0 AI skills. Will relocate. Title penalty (operations manager). Zero core skills penalty. Response: 14%.
+CAND_0000041,46,0.004,13.7 yrs exp. Validated 0 AI skills. Will relocate. Title penalty (operations manager). Zero core skills penalty. Response: 7%.
+CAND_0000003,47,0.0,1.1 yrs exp. Validated 0 AI skills. Title penalty (customer support). Zero core skills penalty. Response: 46%.
+CAND_0000012,48,0.0,1.1 yrs exp. Validated 0 AI skills. Title penalty (operations manager). Zero core skills penalty. Response: 16%.
+CAND_0000023,49,0.0,3.7 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 56%.
+CAND_0000027,50,0.0,3.9 yrs exp. Validated 0 AI skills. Zero core skills penalty. Response: 57%.
